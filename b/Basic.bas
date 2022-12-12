@@ -1,0 +1,2 @@
+10 PRINT "sex"
+20 END
